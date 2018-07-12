@@ -12,6 +12,11 @@ But with all the cons above, I will still recommend this course to a beginner. H
 
 Last, huge thanks to Emily and Carlos, especially Andrew. 
 
+## Environment and Libraries
+-----
+Windows 10 64 bit || Anaconda 3 || Jupyter
+Pandas, Numpy, Scipy, Scikit-Learn
+
 ## Notes
 -----
 Last again, u can find my notes on my blog SYCabin(https://sycabin.com)
