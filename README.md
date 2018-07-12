@@ -12,5 +12,7 @@ But with all the cons above, I will still recommend this course to a beginner. H
 
 Last, huge thanks to Emily and Carlos, especially Andrew. 
 
+## Notes
+-----
 Last again, u can find my notes on my blog SYCabin(https://sycabin.com)
 The notes may not be comprehensive because they are based on my own former background. I will be happy if it could help.
