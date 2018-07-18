@@ -20,7 +20,7 @@ Pandas, Numpy, Scipy, Scikit-Learn
 
 ## Notes
 -----
-Last again, u can find my notes on my blog SYCabin(https://sycabin.com)
+Last again, u can find my notes on my blog [SYCabin](https://sycabin.com)
 The notes may not be comprehensive because they are based on my own former background. I will be happy if it could help.
 
-PS: some of the course material is written in python2 while some in python3 weired.
+PS: some of the course material is written in python2 while some in python3. 
